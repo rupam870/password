@@ -12,7 +12,7 @@ body {
 
 h1 {
     font-family: 'Monument Extended', sans-serif;
-    src: url('/MonumentExtended-Ultrabold.otf') format('otf'),
+    src: url('/MonumentExtended-Ultrabold.otf') format('otf');
     font-size: 32px;
     margin-bottom: 10px;
     line-height: 44px;
